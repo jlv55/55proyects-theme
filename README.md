@@ -1,11 +1,10 @@
 # 55proyects-theme
 HTML5 theme for my personal project: 55proyects (2014)
 
-
-Landing page corporativa creada en 2014 con un diseño minimalista, dinámica y completamente responsive, diseñada para ofrecer publicidad de productos y servicios de forma ordenada y directa.
-
 <br>
 //////<br>
+Landing page corporativa creada en 2014 con un diseño minimalista, dinámica y completamente responsive, diseñada para ofrecer publicidad de productos y servicios de forma ordenada y directa.
+
 	<ul>
 		        	<li>100% Responsive Design</li>
 		        	<li>100% Social Integration</li>
